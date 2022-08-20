@@ -1,6 +1,6 @@
 @media (max-width: 1024px) {
 
-    p {
+    .PRB {
         color: #1044FF;
         width: 62px;
         height: 80px;
@@ -18,7 +18,7 @@
         margin-bottom: 28px;
     }
 
-    h1 {
+    .pierre {
         color: #1044FF;
         width: 286px;
         height: 160px;
@@ -30,7 +30,7 @@
         line-height: 80px;
     }
 
-    h2 {
+    .blog {
         color:#1044FF;
         width: 166px;
         height: 24px;
@@ -149,7 +149,41 @@
         margin-left: 28px;
         margin-top: 100px;
         border-radius: 3px;
+        display: flex;
+        flex-direction: column;
     }
+
+    .categories {
+        color: #333333;
+        width: 113px;
+        height: 32px;
+        margin-left: 32px;
+        margin-top: 40px;
+        margin-bottom: 23px;
+        font-family: "Source Sans Pro";
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .harum {
+        color: #333333;
+        width: 49px;
+        height: 24px;
+        margin-left: 32px;
+        font-family: "Source Sans Pro";
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .index1 {
+       margin-left: 256px;
+    }
+
+
+
+
 
 
 
