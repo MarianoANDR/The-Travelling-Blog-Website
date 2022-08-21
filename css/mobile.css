@@ -311,6 +311,11 @@
         background-color: white;
     }
 
+    .backto {
+        text-decoration: none;
+        color: inherit;
+    }
+
 
 
 
