@@ -303,7 +303,7 @@
     }
 
     .fbdiv { 
-        background-color: red;
+        background-color: #FFE7E7;
 
     }
 
@@ -314,6 +314,7 @@
     .backto {
         text-decoration: none;
         color: inherit;
+        margin-left: 10px;
     }
 
 
