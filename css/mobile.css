@@ -1,5 +1,9 @@
 @media (max-width: 1024px) {
     
+    * {
+        margin: auto;
+    }
+
     .PRB {
         color: #1044FF;
         width: 62px;
