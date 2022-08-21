@@ -170,7 +170,7 @@
         color: #333333;
         width: 49px;
         height: 24px;
-        margin-left: 32px;
+        margin-left: 25px;
         font-family: "Source Sans Pro";
         font-weight: 700;
         font-size: 16px;
@@ -178,7 +178,7 @@
     }
 
     .index1 {
-       margin-left: 200px;
+       margin-left: 170px;
        
     }
 
@@ -190,7 +190,7 @@
         margin-top: 32px;
     }
 
-    .link {
+    a {
         text-decoration: none;
     }
 
@@ -210,6 +210,105 @@
       
     }
 
+    .box3 {
+        width:304px;
+        height: 224px;
+        border: solid #1044FF 1px;
+        margin-top: 32px;
+        margin-left: 28px;
+    }
+
+    .tags {
+        color: inherit;
+    }
+
+    .h3tag {
+        margin-bottom: 0;
+    }
+
+    .call {
+        background-color:  #FFE7E7;;
+        width: 360px;
+        height: 672px;
+        
+        margin: auto;
+        margin-top: 100px;
+        
+        
+    }
+
+    .footer {
+        background-color:  #1044FF;
+        width: 360px;
+        height: 670px;
+        margin: auto;
+        
+        
+    }
+
+    .contactme {
+        font-family: "Source Sans Pro";
+        font-weight: 700;
+        font-size: 30px;
+        padding-top: 80px;
+        margin-left: 100px;
+        margin-bottom: 80px;
+       
+    }
+
+    .callbox {
+        background-color: rgba(255, 255, 255, 0.55);;
+        width: 304px;
+        height: 112px;
+        margin-top: 30px;
+        margin-left: 25px;
+
+    }
+
+    .pfooter {
+        color: white;
+        width: 62px;
+        height: 80px;
+        margin-left: 50px;
+        padding-top: 50px;
+        font-family: "Noticia Text";
+        font-size: 30px;
+        line-height: 80px;
+        letter-spacing: 4px;
+    }
+
+    .ftext{
+        width: 304px;
+        height: 128px;
+        border: solid 1px #FFFFFF;
+        margin-left: 28px;
+    }
+
+    .fp {
+        color: 
+        #FFFFFF;
+        padding-left: 10px;
+    }
+
+    .finalfooter {
+        width:360px;
+        height: 80px;
+        background-color: #0C1F3F;
+    }
+
+    .ffp {
+        color: white;
+        margin-left: 50px;
+        padding-top: 50px;
+    }
+
+
+
+
+
+ 
+ 
+    
 
 
 
