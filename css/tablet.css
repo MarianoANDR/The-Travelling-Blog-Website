@@ -1,11 +1,9 @@
-    .first-box {
-        width: 1024px;
-        height: 512px;
-        background-color: greenyellow;
-        border: solid 1px blue;
-    }
-
-
+.first-box{
+    background-color: greenyellow;
+    width: 360px;
+    height: 640px;
+    margin-bottom: 28px;
+}
 
 
 
