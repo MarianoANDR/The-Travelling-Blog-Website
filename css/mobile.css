@@ -12,6 +12,8 @@
     .first-box{
         background-color: #FFE7E7;
         margin-left: 28px;
+        width: 360px;
+        height: 640px;
     }
 
     .pierre {
