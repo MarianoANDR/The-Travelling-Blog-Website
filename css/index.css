@@ -1,6 +1,6 @@
 @import url('mobile.css'); 
-@import url('tablet.css') (min-width: 400px); 
-@import url('desktop.css') (min-width: 900px);          
+@import url('tablet.css') screen and (min-width: 400px); 
+@import url('desktop.css') screen and (min-width: 900px);          
 
 
 
