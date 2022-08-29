@@ -11,3 +11,13 @@ body {
     background-color: grey;
 }
 
+.card-header {
+    display:flex;
+    justify-content: center;
+    font-family: "noticia text";
+    
+
+}
+
+
+
