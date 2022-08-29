@@ -28,13 +28,13 @@ button {
     margin-top: 200px; 
     margin-bottom: 10px;
     border: none;
-    border-radius: 3px;
+    border-radius: 5px;
    
  }
 
 .card {
     border: solid 1.5px #3b5998;
-    border-radius: 3px;
+    border-radius: 5px;
     margin-top: 50px;
 
 }
@@ -49,7 +49,7 @@ span {
 
 .img1, .img2, .img3, .img4 {
     width: 100%;
-    border-radius: 3px;
+    border-radius: 5px;
 }
 
 figcaption {
@@ -66,7 +66,7 @@ figcaption {
 
 .footer-area {
     border: solid 1.5px #3b5998;
-    border-radius: 3px;
+    border-radius: 5px;
     display: grid;
     grid-template-columns: 50% 50%;
     justify-items: center;  
@@ -120,6 +120,8 @@ h2 {
     margin-top: 50px;
 }
 
+/*  BLOG POST Footer area  */
+
 .blog-footer {
     border: solid 1.5px #006600;
     border-radius: 5px;
@@ -144,7 +146,6 @@ h2 {
 
 .a-footer {
     text-decoration: none;
-    
 }
 
 
