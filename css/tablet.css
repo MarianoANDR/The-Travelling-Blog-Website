@@ -1,3 +1,7 @@
+body {
+    background-color: red;
+}
+
 .nav-bar {
     display: flex;
     justify-content: space-evenly;
@@ -7,13 +11,42 @@
     text-decoration: none;
 }
 
-body {
-    background-color: red;
-}
 
 .card-header {
     display:flex;
     justify-content: center;
     font-family: "noticia text";
-}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+    
+    
+    
+
+
 
