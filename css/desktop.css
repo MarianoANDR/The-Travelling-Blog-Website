@@ -1,6 +1,11 @@
+
+/*  NAV-SECTION area  */
+
 body {
     background-color: green;
 }/*  BODY COLOR ERASE IT LATER  <====================================  */
+
+/* MAIN area */
 
 main {
     display: grid;

@@ -1,3 +1,6 @@
+
+/*  NAV-SECTION area  */
+
 body {
     background-color: red;
 }/*  BODY COLOR ERASE IT LATER  <====================================  */
@@ -17,6 +20,15 @@ body {
     justify-content: center;
     font-family: "noticia text";
 }
+
+/* MAIN area */
+
+main {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+
 
 
 
