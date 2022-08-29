@@ -1,33 +1,19 @@
-body {
-    background-color: red;
+.nav-bar {
+    display: flex;
+    justify-content: space-evenly;
 }
 
+.nav-links {
+    text-decoration: none;
+}
 
+body {
+    background-color: grey;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-    
-
-    
-    
-    
-
-
+.card-header {
+    display:flex;
+    justify-content: center;
+    font-family: "noticia text";
+}
 
