@@ -5,21 +5,6 @@ body {
     background-color: red;
 }/*  BODY COLOR ERASE IT LATER  <====================================  */
 
-.nav-bar {
-    display: flex;
-    justify-content: space-evenly;
-}
-
-.nav-links {
-    text-decoration: none;
-}
-
-
-.card-header {
-    display:flex;
-    justify-content: center;
-    font-family: "noticia text";
-}
 
 /* MAIN area */
 
